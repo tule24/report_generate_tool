@@ -1,0 +1,10 @@
+C:\Users\lecon\source\repos\PAVE PRIORITY\bin\Debug\PAVE PRIORITY.exe.config
+C:\Users\lecon\source\repos\PAVE PRIORITY\bin\Debug\PAVE PRIORITY.exe
+C:\Users\lecon\source\repos\PAVE PRIORITY\bin\Debug\PAVE PRIORITY.pdb
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE_PRIORITY.form_main.resources
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE_PRIORITY.Properties.Resources.resources
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE PRIORITY.csproj.GenerateResource.cache
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE PRIORITY.csproj.CoreCompileInputs.cache
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE PRIORITY.exe
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE PRIORITY.pdb
+C:\Users\lecon\source\repos\PAVE PRIORITY\obj\Debug\PAVE PRIORITY.csproj.AssemblyReference.cache
